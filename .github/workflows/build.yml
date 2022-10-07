@@ -22,10 +22,10 @@ env:
   MACOS_HPCKIT_URL: >-
     https://registrationcenter-download.intel.com/akdlm/irc_nas/17890/m_HPCKit_p_2021.3.0.3226_offline.dmg
   LINUX_INTEL_COMPONENTS: >-
-    intel-oneapi-compiler-fortran-2021.2.0
-    intel-oneapi-compiler-dpcpp-cpp-and-cpp-classic-2021.2.0
-    intel-oneapi-mkl-2021.2.0
-    intel-oneapi-mkl-devel-2021.2.0
+    intel-oneapi-compiler-fortran-2022.3.0
+    intel-oneapi-compiler-dpcpp-cpp-and-cpp-classic-2022.3.0
+    intel-oneapi-mkl-2022.3.0
+    intel-oneapi-mkl-devel-2022.3.0
 
 jobs:
   build:
